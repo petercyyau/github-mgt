@@ -7,7 +7,7 @@ brew install gh
 gh auth login
 
 # Retriev all repos
-gh repo list drpeteryau-uofg --limit 10 | while read -r repo _; do
+gh repo list [<owner>] --limit 10 | while read -r repo _; do
   print $repo
 done
 
