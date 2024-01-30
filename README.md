@@ -1,4 +1,5 @@
 ## github-mgt
+Reference: https://stackoverflow.com/questions/19576742/how-to-clone-all-repos-at-once-from-github
 
 # install gh
 brew install gh
