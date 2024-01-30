@@ -4,7 +4,7 @@ Reference: https://stackoverflow.com/questions/19576742/how-to-clone-all-repos-a
 # install gh
 brew install gh
 
-# lgin gh
+# login gh
 gh auth login
 
 # Retriev all repos
